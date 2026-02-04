@@ -1,4 +1,4 @@
-### Web Developer with a strong focus on frontend development 💻👋🏼
+# Web Developer with a strong focus on frontend development 💻👋🏼
 
 ---
 
